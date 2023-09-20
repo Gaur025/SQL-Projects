@@ -48,7 +48,9 @@ The "Data Cleaning in SQL" project is a crucial initiative aimed at preparing da
 This project equips data analysts with the essential skills needed to clean and prepare data effectively, setting the foundation for meaningful and accurate data analysis. For access to the project dataset and the SQL code used for these data cleaning operations.
 
 please visit the complete project here.
+
 LINKS:
+
 Project Dataset: https://github.com/Gaur025/SQL-Projects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
 
 Link to SQL Code: https://github.com/Gaur025/SQL-Projects/blob/main/NashvilleHousing%20Data%20Cleaning.sql
@@ -79,9 +81,13 @@ Documentation: The test document serves as a valuable reference for project stak
 This project is essential in ensuring that the HR Analytics Dashboard is reliable, accurate, and meets the specified requirements, enhancing its utility for data analysis and decision-making.
 
 LINKS 
+
 SQL Queries: https://github.com/Gaur025/SQL-Projects/blob/main/hrdata%20sql%20queries.sql
+
 SQL Queries and Observations: https://github.com/Gaur025/SQL-Projects/blob/main/SQL%20Test%20Document_Tableau.pdf
+
 Test Document: https://github.com/Gaur025/SQL-Projects/blob/main/TESTING%20TABLEAU%20REPORTS%20IN%20SQL.pdf
+
 HR Analytics Dashboard Project: https://public.tableau.com/app/profile/gaurang.dwivedi/viz/HRAnalyticsDashboard_16944210188490/HRAnalyticsDashboard?publish=yes
 
 
