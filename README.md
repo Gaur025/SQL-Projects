@@ -5,8 +5,8 @@
 The SQL Data Exploration Project on COVID-19 data is a comprehensive analysis aimed at deriving valuable insights from real-world data sources. In this project, we obtain COVID-19 data from reliable sources like "Our World in Data" and focus on understanding the pandemic's impact. Key aspects of this exploration include:
 
 1. **Data Sources:** We collect COVID-19 data from trusted sources, ensuring accuracy and reliability. The dataset includes information on cases, deaths, vaccinations, and more. Please use these 2 links to get the data from the 2 excels used in the exploration:
-1. Covid Deaths: 
-2. Covid Vaccinations:
+ Covid Deaths: 
+ Covid Vaccinations:
 
 2. **Metrics and Analysis:** Our exploration involves a deep dive into various metrics and results. We calculate and visualize:
 
