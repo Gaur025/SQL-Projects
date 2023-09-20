@@ -49,11 +49,11 @@ This project equips data analysts with the essential skills needed to clean and 
 
 please visit the complete project here.
 LINKS:
-Project Dataset: 
+Project Dataset: https://github.com/Gaur025/SQL-Projects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
 
-Link to SQL Code: 
+Link to SQL Code: https://github.com/Gaur025/SQL-Projects/blob/main/NashvilleHousing%20Data%20Cleaning.sql
 
-#Testing Tableau Report using SQL
+# Testing Tableau Report using SQL
 
 The "Testing Tableau Report using SQL" project is a valuable exercise in SQL Quality Assurance (QA) testing, aimed at ensuring the accuracy, functionality, and quality of the HR Analytics Dashboard developed in Tableau. Here are the key components and objectives of this project:
 
@@ -78,10 +78,11 @@ Functional Testing: Functional testing ensures that all features and filters wit
 Documentation: The test document serves as a valuable reference for project stakeholders and future QA efforts, providing a clear record of testing procedures and outcomes.
 This project is essential in ensuring that the HR Analytics Dashboard is reliable, accurate, and meets the specified requirements, enhancing its utility for data analysis and decision-making.
 
-LINKS  
-SQL Queries and Observations: 
-Test Document:
-HR Analytics Dashboard Project:
+LINKS 
+SQL Queries: https://github.com/Gaur025/SQL-Projects/blob/main/hrdata%20sql%20queries.sql
+SQL Queries and Observations: https://github.com/Gaur025/SQL-Projects/blob/main/SQL%20Test%20Document_Tableau.pdf
+Test Document: https://github.com/Gaur025/SQL-Projects/blob/main/TESTING%20TABLEAU%20REPORTS%20IN%20SQL.pdf
+HR Analytics Dashboard Project: https://public.tableau.com/app/profile/gaurang.dwivedi/viz/HRAnalyticsDashboard_16944210188490/HRAnalyticsDashboard?publish=yes
 
 
 
